@@ -4,9 +4,9 @@ ts_node_boilerplate is a TS Node boilerplate using Express, Jest, Nodemon and Do
 
 ## Installation
 
-> npm i 
+`npm i`
 
 ## Running locally
 
-> npm run start:dev
+`npm run start:dev`
 
